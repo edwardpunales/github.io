@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html>
   <head>
-    <meta charset="UTF-8" />
-    <title>Edward Punales Resume</title>
+  <meta charset="UTF-8" />
+  <title>Edward Punales Resume</title>
   </head>
   <body>
 
@@ -27,7 +27,7 @@
 
     </nav>
 
-    <section>
+   
     <h2> Skills</h2>
     <article>
     <p> Trustsworthy </p>
@@ -35,16 +35,17 @@
     <p> Excellent Communicator </p>
 
     </article>
-    </section>
+  
 
   <h2> Education </h2>
     <article>
-    <h3> Miami-Dade College</h3>
+    <h3> Miami-Dade Collegedfddddd</h3>
     <p> Transfered out with a 3.9 GPA </p>
     <p> Made the Dean's list two years in a row </p>
     <h3> University of Miami </h3>
     <p> Has taken classes in Visual Design and Journalism </p>
-    <p> Sussesfully wrote articles and designed flyers for school assignments</p>            </article>
+    <p> Sussesfully wrote articles and designed flyers for school assignments</p>     
+    </article>
 
   <h2>Work Experience</h2>
     <article>
